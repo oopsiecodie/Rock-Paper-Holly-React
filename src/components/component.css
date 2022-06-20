@@ -1,0 +1,11 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  margin-bottom: var(--dl-space-space-unit);
+}
